@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "OcDjangoDisquaire", "OcDjangoDisquaire\OcDjangoDisquaire.pyproj", "{D4821440-B229-4626-9445-9226D70B1546}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4821440-B229-4626-9445-9226D70B1546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4821440-B229-4626-9445-9226D70B1546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4821440-B229-4626-9445-9226D70B1546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4821440-B229-4626-9445-9226D70B1546}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C31664C1-2145-4D76-BF2A-5E2B38E98F2C}
+	EndGlobalSection
+EndGlobal
